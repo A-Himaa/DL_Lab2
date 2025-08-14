@@ -1,0 +1,6 @@
+
+(2).
+
+1. When the number of hidden nodes increase, the accuracy increases significantly and reach to optimal level.
+
+2. When the number of hidden nodes increase from 1 to 3, the accurracy is improved from 67.5% to 90.75%. Increasing from 4 to 5 gave slight improvement reaching the highest achievable accuracy indicating that model has enough capacity to medel patterns. Going beyond 5 nodes decrese the accuracy a bit and stabled around 90% indicating that adding hidden nodes further doesn't affect the accuracy.
